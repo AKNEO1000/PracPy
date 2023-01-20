@@ -1,0 +1,5 @@
+#in this exercise you have to find the duplicates in a list and then append them in another list and then print the duplicates list.
+# your list:
+numbers = [1, 2, 2, 2, 3, 3, 4, 5, 6, 7, 7, 8, 8, 9, 9, 10]
+# take a break and do this exercise at your own end.
+#good luck!

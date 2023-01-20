@@ -1,0 +1,4 @@
+#Hooray! you have been hired for telsa's software management company. Your task is simple: you have to develop a program where an input asks if the user is over 18, if yes then print "car started". If not, print "you are not old enough".
+# you have to ask y/n in the input. if y then car starts, if n then print "your not old enough". If neither: print "only enter valid letters".
+#take a break and try this exercide at your own end.
+#good luck!
