@@ -1,0 +1,4 @@
+# In this exercise we are going to be using conditional operators.
+# Imagine you are working at a gaming company, there is a feature that allows you to unlock legendary items when the player reaches level 100, you need to check if the player is at level 100 or not. If the the player is level 100, print: you can unlock the items. If not print: you cannot unlock these items. If the user does not give the appropriate answer, print: please put a valid answer
+# Take a break and do this exercise on your end.
+# Good luck!
