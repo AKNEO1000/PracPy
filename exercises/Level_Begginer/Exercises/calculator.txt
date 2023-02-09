@@ -1,0 +1,3 @@
+# in this exercise, you have to input two numbers from the user and add two numbers. Finally: print your result.
+# take a break and try this exercise at your own end.
+# good luck!
